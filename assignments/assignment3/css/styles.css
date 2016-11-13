@@ -1,0 +1,21 @@
+.navbar{
+	background-color: lightgray;
+}
+.navbar-brand h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-size: 1.5em;
+}
+
+.divider{
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:1px solid gray;
+}
+
+.content{
+	background-color: lightgray;
+}
