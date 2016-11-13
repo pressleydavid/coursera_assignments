@@ -19,3 +19,16 @@
 .content{
 	background-color: lightgray;
 }
+
+.text-center{
+	font-size: 14pt;
+	font-style: bold;
+}
+
+#chicken{
+	border: transparent;
+	border-width: 1px;
+	margin: 2px;
+	width: 100%;
+	background-color: lightgray;
+}
